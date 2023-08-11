@@ -23,6 +23,14 @@ Feel free to explore the exercises and learn from the code examples provided. Yo
 - [13.1-Flask.py](13.1-Flask.py): Getting started with Flask, a web framework in Python.
 - [13.2-Flask.py](13.2-Flask.py): More advanced Flask examples.
 
+## Walrus Operator Usage
+
+In some of these exercises, I've utilized the walrus operator (`:=`) introduced in python 3.9, to make the code concise and elegant. For instance:
+
+```python
+print(nimi := input("Anna nimesi: "), f"Hauska tavata, {nimi}")
+```
+
 ## How to Use
 
 To run this project, you will need to add the following environment variables to your code file
