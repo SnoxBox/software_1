@@ -25,7 +25,7 @@ Feel free to explore the exercises and learn from the code examples provided. Yo
 
 ## Walrus Operator Usage
 
-In some of these exercises, I've utilized the walrus operator (`:=`) introduced in python 3.9, to make the code concise and elegant. For instance:
+In some of these exercises, I've utilized the walrus operator (`:=`) introduced in python 3.9, to make the code concise and elegant (I totally did it just to experement, the previous sentence is mostly bs). For instance:
 
 ```python
 print(nimi := input("Anna nimesi: "), f"Hauska tavata, {nimi}")
